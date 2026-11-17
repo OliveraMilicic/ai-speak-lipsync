@@ -1,0 +1,80 @@
+{
+  "Jovana1": {
+    "inference_time_sec": 0.0687,
+    "rtf": 0.0153,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Jovana5": {
+    "inference_time_sec": 0.0564,
+    "rtf": 0.0152,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Sinisa1": {
+    "inference_time_sec": 0.0691,
+    "rtf": 0.0132,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Sinisa3": {
+    "inference_time_sec": 0.0996,
+    "rtf": 0.0151,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Sinisa7": {
+    "inference_time_sec": 0.0506,
+    "rtf": 0.0114,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Stefan1": {
+    "inference_time_sec": 0.0501,
+    "rtf": 0.0111,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Stefan2": {
+    "inference_time_sec": 0.0465,
+    "rtf": 0.0113,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Stefan4": {
+    "inference_time_sec": 0.0431,
+    "rtf": 0.0115,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Stefan6": {
+    "inference_time_sec": 0.048,
+    "rtf": 0.0116,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Stefan9": {
+    "inference_time_sec": 0.0486,
+    "rtf": 0.0118,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Tijana1": {
+    "inference_time_sec": 0.0601,
+    "rtf": 0.0102,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Tijana10": {
+    "inference_time_sec": 0.0502,
+    "rtf": 0.0127,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  },
+  "Tijana8": {
+    "inference_time_sec": 0.0578,
+    "rtf": 0.0121,
+    "lookahead_ms": 83.3,
+    "fps_out": 60
+  }
+}
