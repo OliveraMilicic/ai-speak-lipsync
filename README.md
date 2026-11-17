@@ -84,7 +84,7 @@ Remove the `google.colab` / `drive.mount` lines and point the paths to local fol
 
 ## Authors
 
-- Olivera Miličić
-- Iva Bojanić
+Olivera Miličić
+Iva Bojanić
 
 Faculty of Technical Sciences, University of Novi Sad
